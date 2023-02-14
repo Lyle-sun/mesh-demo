@@ -5,7 +5,7 @@ kind: Namespace
 metadata:
   name: base
   labels:
-    istio.io/rev: 1-12-5
+    istio.io/rev: 1-14-5
 spec:
   finalizers:
     - kubernetes
